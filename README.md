@@ -29,7 +29,7 @@
 - 🧪 I love crafting **modding frameworks**, **game logic systems**, and custom launchers.
 - 💻 Linux-first, coding mostly in **Java** but not afraid of **C**, **Rust**, or low-level tricks.
 - 🧙 Deep into **Forge/NeoForge**, worldbuilding, and game engine mechanics.
-- 🐧 Fan of **KDE Neon**, terminal tools, and clean environments.
+- 🐧 Fan of **Arch Linux**, terminal tools, and clean environments.
 - 🎮 Making Minecraft feel like a new game.
 
 ### 🌀 I vibe with
@@ -44,7 +44,7 @@
 
 ### 📎 See also
 
-If you're looking for earlier work, check out my previous profile:  
+If you're looking for earlier work, check out my previous profile **(dead)**:  
 🔗 [@G0ldyL](https://github.com/G0ldyL)
 
 ### 🌐 Let's connect
