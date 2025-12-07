@@ -1,55 +1,60 @@
-## Hi there 👋
+# Who are you? Smile!
+*Click.*
 
-# Hey, I'm GoldyL 👾
+```bash
+$ sudo capture-attention --target visitor
+[sudo] password for visitor: **********
+> Initializing optics... OK
+> Focus locked.
+> Shutter speed: 1/2000s
+> CLICK. 📸
+> Image saved to /home/system/visitors/you.png
+```
 
-> Indie dev • Backend artisan • Java necromancer • Tech romantic
->  
-> “Code is poetry in motion.”
+Gotcha.
 
----
-
-### 🧰 Toolbox
-
-![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-000?style=flat&logo=spring)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat&logo=kotlin)
-![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
-![NeoForge](https://img.shields.io/badge/-NeoForge-000?style=flat&logo=forge)
-![JavaFX](https://img.shields.io/badge/-JavaFX-000?style=flat&logo=openjdk)
-![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
-![LibGDX](https://img.shields.io/badge/-LibGDX-000?style=flat&logo=libgdx)
-![FXGL](https://img.shields.io/badge/-FXGL-000?style=flat&logo=java)
+Now that you're in focus, let's look at the raw data.
+I am a **Java Backend Engineer** and **Linux Enthusiast**.
+I don't sell dreams. I deliver systems that survive production.
 
 ---
 
-### 🌌 About me
+### 🎞️ The Negative (Projects)
 
-- 🧪 I love crafting **modding frameworks**, **game logic systems**, and custom launchers.
-- 💻 Linux-first, coding mostly in **Java** but not afraid of **C**, **Rust**, or low-level tricks.
-- 🧙 Deep into **Forge/NeoForge**, worldbuilding, and game engine mechanics.
-- 🐧 Fan of **Arch Linux**, terminal tools, and clean environments.
-- 🎮 Making Minecraft feel like a new game.
+Development is not about "Happy Path". It's about handling the errors.
 
-### 🌀 I vibe with
+#### 🏗️ [Pharmacy System](https://github.com/Kitty-Hivens/pharmacy)
+> *Enterprise Backend Core*
+> A fully secured POS & Inventory system.
+* **Security:** JWT, RBAC, BCrypt. No open doors.
+* **Logic:** FEFO (First Expired First Out) algorithms. Real-time stock deduction.
+* **Quality:** Strict Validation (JSR-380), Global Error Handling (RFC 7807 compatible).
 
-- `Functional design + practical architecture`
-- `Slow & intentional development`
-- `Open source culture`
-- `Creativity before monetization`
+#### 🐧 [osu! Linux Installer](https://github.com/Kitty-Hivens/linux-osu-stable-installer)
+> *System Engineering*
+> Taming Windows software on Unix kernel.
+* **Low Latency:** Wayland native drivers injection.
+* **Audio:** PulseAudio/PipeWire buffer optimization.
+* **UX:** GTK Dashboard via `yad`.
 
 ---
 
+### 🛠️ The Gear (Stack)
 
-### 📎 See also
+No bloatware. Just tools that work.
 
-If you're looking for earlier work, check out my previous profile **(dead)**:  
-🔗 [@G0ldyL](https://github.com/G0ldyL)
+| Core | Infrastructure | Quality Control |
+| :--- | :--- | :--- |
+| ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white) |
+| ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat&logo=spring&logoColor=white) | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) | ![Mockito](https://img.shields.io/badge/Mockito-78A32F?style=flat) |
+| ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) | ![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white) | ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) |
 
-### 🌐 Let's connect
+---
 
-[![Telegram](https://img.shields.io/badge/-@goldyl-2CA5E0?style=flat&logo=telegram)](https://t.me/nonefile)
-[![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail)](mailto:vitaliyfnaf@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/виталий-вакар-070089291/)
-[![Discord](https://img.shields.io/badge/Discord-GoldyL%234532-blue?logo=discord&logoColor=white&style=flat)](https://discord.com/users/453273379424829463)  
+### 📍 Metadata
+
+* **Location:** Germany 🇩🇪
+* **Mode:** **Rolling Release**. Constant updates, occasional breakage, rapid fixes.
+* **Objective:** High-load systems & GameDev backend.
+
+vvv **SOURCE CODE BELOW** vvv
