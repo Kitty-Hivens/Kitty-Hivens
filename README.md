@@ -14,7 +14,7 @@ Open to English-speaking teams while actively improving German language skills.
 #### 🏗️ Pharmacy System
 *Enterprise Backend Application*
 
-- Spring Boot 3, Java 21
+- Spring Boot 4, Java 21
 - REST API, layered architecture
 - Security: JWT authentication, RBAC, BCrypt
 - Business logic: FEFO (First Expired First Out) stock management
@@ -67,6 +67,9 @@ Open to English-speaking teams while actively improving German language skills.
 ### 📍 Additional Information
 
 - **Location:** Germany
-- **Languages:** English (B1/B2), German (A1 — currently improving)
+- **Languages:** English (B1/B2), German (A2 — currently improving)
 - **Focus:** Backend development with interest in scalable systems
 
+---
+
+[![GoldyL profile views](https://u8views.com/api/v1/github/profiles/211033194/views/day-week-month-total-count.svg)](https://u8views.com/github/Kitty-Hivens)
