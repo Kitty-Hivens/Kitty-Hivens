@@ -14,7 +14,7 @@ Currently seeking a **Junior Developer** or **Apprenticeship (Ausbildung)** posi
 #### 🏥 [Haru Pharmacy (Enterprise System)](https://github.com/Kitty-Hivens/Pharmacy)
 A comprehensive full-stack simulation of a retail pharmacy system.
 * **Architecture:** Contract-First Development (OpenAPI as Single Source of Truth).
-* **Backend:** Spring Boot 4 (Preview), Java 21, Spring Security (JWT/RBAC).
+* **Backend:** Spring Boot 4, Java 21, Spring Security (JWT/RBAC).
 * **Frontend:** Angular 21 (Zoneless/Signals), Auto-generated API client.
 * **Engineering:** Database migration via Flyway, strict DTO validation, Docker Compose.
 
@@ -34,7 +34,6 @@ Advanced system automation tool for low-latency gaming on Linux.
 A reliable transactional banking service backend.
 * **Focus:** Transaction management (ACID), concurrency control, and data integrity.
 * **Stack:** Spring Boot, PostgreSQL/MariaDB, Hibernate.
-* *Status: Refactoring & Localization in progress.*
 
 ---
 
