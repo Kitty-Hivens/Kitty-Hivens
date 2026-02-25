@@ -34,7 +34,7 @@ Advanced system automation tool for low-latency gaming on Linux.
 A transactional REST API backend focused on financial data integrity.
 * **Focus:** ACID-compliant transaction management with concurrent account operations.
 * **Reliability:** Optimistic locking, race condition handling, and secure data access patterns.
-* **Stack:** Spring Boot, PostgreSQL/MariaDB, Hibernate.
+* **Stack:** Spring Boot, MariaDB, Hibernate.
 
 ---
 
