@@ -5,7 +5,7 @@
 I am a software developer based in **Germany** 🇩🇪 (Husum area) with a passion for building reliable systems and optimizing runtime environments.
 My expertise ranges from **Enterprise Java architectures** (Spring Boot, Contract-First) to **Low-level Linux automation** (Bash, Wine/Wayland).
 
-Currently seeking a **Junior Developer** or **Apprenticeship (Ausbildung)** position.
+Currently seeking a **Junior Developer** position.
 
 ---
 
@@ -31,8 +31,9 @@ Advanced system automation tool for low-latency gaming on Linux.
 * **Impact:** Simplifies complex Wine configurations for the community.
 
 #### 🏦 [Bank API Service](https://github.com/Kitty-Hivens/Bank-API-Spring)
-A reliable transactional banking service backend.
-* **Focus:** Transaction management (ACID), concurrency control, and data integrity.
+A transactional REST API backend focused on financial data integrity.
+* **Focus:** ACID-compliant transaction management with concurrent account operations.
+* **Reliability:** Optimistic locking, race condition handling, and secure data access patterns.
 * **Stack:** Spring Boot, PostgreSQL/MariaDB, Hibernate.
 
 ---
@@ -62,7 +63,7 @@ A reliable transactional banking service backend.
 * **Location:** Husum, Germany
 * **Languages:** 
     * 🇷🇺 Russian (Native)
-    * 🇬🇧 English (B1/B2 - Working Proficiency)
+    * 🇬🇧 English (B2 - Working Proficiency)
     * 🇩🇪 German (A2 - Actively Learning)
 * **Interests:** Low-level system optimization, Backend Architecture, Japanese Culture.
 
