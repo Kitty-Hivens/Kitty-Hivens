@@ -8,6 +8,8 @@ such as JavaScript, TypeScript, Bash.
 
 I often develop for myself. If you find something useful here — glad it worked out.
 
+> Germany · Open to remote work / freelance (JVM / Kotlin / R&D)
+
 ---
 
 ### Technical Stack
