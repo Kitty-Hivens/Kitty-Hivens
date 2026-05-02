@@ -1,14 +1,13 @@
 ### Hi there, I'm Haru 👋
 
-I am a software developer. My experience ranges from simple game scripts
-to full-fledged commercial products. Quite a wide range of activities.
+Backend developer focused on the JVM — Java 25, Kotlin, Spring Boot.
+Currently interning on a commercial product (Spring Boot 4, Redis, MySQL).
 
-Everything is connected with the JVM — Java, Kotlin, and related technologies
-such as JavaScript, TypeScript, Bash.
+I build things that run in production: a pharmacy management system with 
+OpenAPI-first architecture, a CALPHAD thermodynamics library for materials 
+science, a Kotlin/Compose launcher with real users.
 
-I often develop for myself. If you find something useful here — glad it worked out.
-
-> Germany · Open to remote work / freelance (JVM / Kotlin / R&D)
+> Germany · Open to remote work (JVM / Kotlin / Backend)
 
 ---
 
