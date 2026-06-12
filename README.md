@@ -1,7 +1,6 @@
 ### Hi there, I'm Haru 👋
 
 Backend developer focused on the JVM — Java 25, Kotlin, Spring Boot.
-Currently interning on a commercial product (Spring Boot 4, Redis, MySQL).
 
 I build things that run in production: a pharmacy management system with 
 OpenAPI-first architecture, a CALPHAD thermodynamics library for materials 
